@@ -1,0 +1,13 @@
+{
+  "health": true,
+  "emailsEndpoint": "ok",
+  "categorizeEndpoint": "ok",
+  "searchEndpoint": "ok",
+  "suggestReplyEndpoint": "ok",
+  "frontendSearch": "ok",
+  "frontendCategorization": "ok",
+  "frontendSuggestReply": "ok",
+  "errors": [
+    "Slack/webhook not triggered (environment variables may be missing)"
+  ]
+}

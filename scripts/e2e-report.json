@@ -1,0 +1,14 @@
+{
+  "health": true,
+  "emailsEndpoint": "ok",
+  "categorizeEndpoint": "ok",
+  "searchEndpoint": "ok",
+  "suggestReplyEndpoint": "ok",
+  "frontendSearch": "error",
+  "frontendCategorization": "ok",
+  "frontendSuggestReply": "ok",
+  "errors": [
+    "Frontend not reachable: fetch failed"
+  ],
+  "categorize_notifiedInterested": false
+}
