@@ -12,7 +12,8 @@
     "build": "tsc -p tsconfig.json",
     "postinstall": "npm run build",
     "start": "node dist/server.js",
-    "validate:e2e": "ts-node validateE2E.ts"
+    "validate:e2e": "ts-node validateE2E.ts",
+      "clean": "rm -rf dist"
   },
   "dependencies": {
     "@elastic/elasticsearch": "^8.9.0",
